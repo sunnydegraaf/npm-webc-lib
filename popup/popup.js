@@ -58,7 +58,7 @@ class popup extends HTMLElement {
                 top: 10px;
                 right: 10px;
                 cursor: pointer;
-                fill(--primary)
+                fill: (--primary)
             }
             .wrapper {
                 position: fixed;
@@ -129,4 +129,4 @@ class popup extends HTMLElement {
       });
     }
   }
-  window.customElements.define('popup', popup);
+  window.customElements.define('popup-modal', popup);

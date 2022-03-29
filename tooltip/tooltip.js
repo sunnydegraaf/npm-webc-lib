@@ -109,4 +109,4 @@ class Tooltip extends HTMLElement {
     }
 }
 
-window.customElements.define('tooltip', Tooltip);
+window.customElements.define('tooltip-modal', Tooltip);

@@ -1,6 +1,6 @@
 {
   "name": "npm-webc-lib",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Package with web components",
   "main": "popupNotify/popupNotify.js",
   "scripts": {
